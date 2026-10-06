@@ -1,220 +1,211 @@
 {
-  dados_PETR4 = [
-  {
-    "ativo": "PETR4",
-    "data": "2026-05-11",
-    "titulo": "Petrobras lucra R$ 32,6 bi no 1º tri de 2026",
-    "resumo": "Petrobras registrou lucro de R$ 32,6 bilhões no 1T26, com recorde de produção de óleo e gás e fluxo de caixa operacional de US$ 8,4 bilhões.",
-    "fonte": "bpmoney.com.br"
-  },
-  {
-    "ativo": "PETR4",
-    "data": "2026-05-v11",
-    "titulo": "Petrobras aprova R$ 9 bi em proventos (antecipação)",
-    "resumo": "Conselho aprovou antecipação de remuneração aos acionistas de 2026, no valor de R$ 0,70 por ação, com pagamento previsto para agosto e setembro.",
-    "fonte": "bpmoney.com.br"
-  },
-  {
-    "ativo": "PETR4",
-    "data": "2026-05-11",
-    "titulo": "Ministro sinaliza reavaliação de preços de combustíveis",
-    "resumo": "Ministro da Fazenda disse que a Petrobras deve reavaliar preços dos combustíveis diante da alta do petróleo, mas que o governo não interfere diretamente na política de preços da estatal.",
-    "fonte": "bpmoney.com.br"
-  },
-  {
-    "ativo": "PETR4",
-    "data": "2026-08-06",
-    "titulo": "Petrobras aprova R$ 17,4 bi em proventos",
-    "resumo": "Conselho aprovou R$ 17,4 bilhões em dividendos e JCP como antecipação da remuneração de 2026, equivalente a R$ 1,348 por ação, pagos em duas parcelas em novembro e dezembro de 2026.",
-    "fonte": "renovainvest.com.br"
-  },
-  {
-    "ativo": "PETR4",
-    "data": "2026-08-20",
-    "titulo": "Pagamento da 1ª parcela de dividendos de PETR4",
-    "resumo": "Petrobras pagou a primeira parcela de proventos aprovada anteriormente, no valor de R$ 0,35048636 por ação.",
-    "fonte": "suno.com.br"
-  },
-  {
-    "ativo": "PETR4",
-    "data": "2026-08-27",
-    "titulo": "Petrobras resgata antecipadamente títulos globais 2028",
-    "resumo": "Petrobras anunciou resgate antecipado de títulos globais com vencimento em 2028, no valor total de cerca de US$ 1 bilhão. Precificação prevista para 22/09/2026 e liquidação para 25/09/2026.",
-    "fonte": "bpmoney.com.br"
-  },
-  {
-    "ativo": "PETR4",
-    "data": "2026-08",
-    "titulo": "BTG vê espaço para dividendos mais altos em 2026",
-    "resumo": "Análise do BTG Pactual aponta que a Petrobras pode gerar mais caixa do que o mercado espera, com aumento de produção e redução de capex/opex, elevando o potencial de dividend yield.",
-    "fonte": "suno.com.br"
-  },
-  {
-    "ativo": "PETR4",
-    "data": "2026-08",
-    "titulo": "BTG: Petrobras depende do Brent em 2026",
-    "resumo": "BTG Pactual mantém recomendação de compra e preço-alvo de US$ 15 por ADR, mas alerta que a empresa está mais exposta ao preço do Brent e ao risco-país em 2026, chamando o ano de decisivo.",
-    "fonte": "suno.com.br"
-  },
-  {
-    "ativo": "PETR4",
-    "data": "2026-09-21",
-    "titulo": "Pagamento da 2ª parcela de dividendos de PETR4",
-    "resumo": "Petrobras pagou a segunda parcela de proventos, no valor de R$ 0,35048636 por ação, referente à antecipação de junho de 2026.",
-    "fonte": "suno.com.br"
-  },
-  {
-    "ativo": "PETR4",
-    "data": "2026-08-06",
-    "titulo": "Cotação e múltiplos de PETR4",
-    "resumo": "PETR4 cotada a R$ 42,31, com P/L de 5,07 e dividend yield de 8,4% nos últimos 12 meses, LPA de R$ 8,35. Máxima de R$ 49,78 e mínima de R$ 36,89 nos últimos 6 meses.",
-    "fonte": "renovainvest.com.br (dados B3 via Brapi)"
-  }
-]
+  "ativo": "PETR4",
+  "data": "2026-05-11",
+  "titulo": "Petrobras lucra R$ 32,6 bi no 1º tri de 2026",
+  "resumo": "Petrobras registrou lucro de R$ 32,6 bilhões no 1T26, com recorde de produção de óleo e gás e fluxo de caixa operacional de US$ 8,4 bilhões.",
+  "fonte": "bpmoney.com.br"
+},
+{
+  "ativo": "PETR4",
+  "data": "2026-05-v11",
+  "titulo": "Petrobras aprova R$ 9 bi em proventos (antecipação)",
+  "resumo": "Conselho aprovou antecipação de remuneração aos acionistas de 2026, no valor de R$ 0,70 por ação, com pagamento previsto para agosto e setembro.",
+  "fonte": "bpmoney.com.br"
+},
+{
+  "ativo": "PETR4",
+  "data": "2026-05-11",
+  "titulo": "Ministro sinaliza reavaliação de preços de combustíveis",
+  "resumo": "Ministro da Fazenda disse que a Petrobras deve reavaliar preços dos combustíveis diante da alta do petróleo, mas que o governo não interfere diretamente na política de preços da estatal.",
+  "fonte": "bpmoney.com.br"
+},
+{
+  "ativo": "PETR4",
+  "data": "2026-08-06",
+  "titulo": "Petrobras aprova R$ 17,4 bi em proventos",
+  "resumo": "Conselho aprovou R$ 17,4 bilhões em dividendos e JCP como antecipação da remuneração de 2026, equivalente a R$ 1,348 por ação, pagos em duas parcelas em novembro e dezembro de 2026.",
+  "fonte": "renovainvest.com.br"
+},
+{
+  "ativo": "PETR4",
+  "data": "2026-08-20",
+  "titulo": "Pagamento da 1ª parcela de dividendos de PETR4",
+  "resumo": "Petrobras pagou a primeira parcela de proventos aprovada anteriormente, no valor de R$ 0,35048636 por ação.",
+  "fonte": "suno.com.br"
+},
+{
+  "ativo": "PETR4",
+  "data": "2026-08-27",
+  "titulo": "Petrobras resgata antecipadamente títulos globais 2028",
+  "resumo": "Petrobras anunciou resgate antecipado de títulos globais com vencimento em 2028, no valor total de cerca de US$ 1 bilhão. Precificação prevista para 22/09/2026 e liquidação para 25/09/2026.",
+  "fonte": "bpmoney.com.br"
+},
+{
+  "ativo": "PETR4",
+  "data": "2026-08",
+  "titulo": "BTG vê espaço para dividendos mais altos em 2026",
+  "resumo": "Análise do BTG Pactual aponta que a Petrobras pode gerar mais caixa do que o mercado espera, com aumento de produção e redução de capex/opex, elevando o potencial de dividend yield.",
+  "fonte": "suno.com.br"
+},
+{
+  "ativo": "PETR4",
+  "data": "2026-08",
+  "titulo": "BTG: Petrobras depende do Brent em 2026",
+  "resumo": "BTG Pactual mantém recomendação de compra e preço-alvo de US$ 15 por ADR, mas alerta que a empresa está mais exposta ao preço do Brent e ao risco-país em 2026, chamando o ano de decisivo.",
+  "fonte": "suno.com.br"
+},
+{
+  "ativo": "PETR4",
+  "data": "2026-09-21",
+  "titulo": "Pagamento da 2ª parcela de dividendos de PETR4",
+  "resumo": "Petrobras pagou a segunda parcela de proventos, no valor de R$ 0,35048636 por ação, referente à antecipação de junho de 2026.",
+  "fonte": "suno.com.br"
+},
+{
+  "ativo": "PETR4",
+  "data": "2026-08-06",
+  "titulo": "Cotação e múltiplos de PETR4",
+  "resumo": "PETR4 cotada a R$ 42,31, com P/L de 5,07 e dividend yield de 8,4% nos últimos 12 meses, LPA de R$ 8,35. Máxima de R$ 49,78 e mínima de R$ 36,89 nos últimos 6 meses.",
+  "fonte": "renovainvest.com.br (dados B3 via Brapi)"
+}
 
-dados_MXRF11 = [
-  {
-    "ativo": "MXRF11",
-    "data": "2026-05",
-    "titulo": "MXRF11 mantém R$ 0,10 por cota em maio",
-    "resumo": "MXRF11 confirmou distribuição de R$ 0,10 por cota referente a maio de 2026, com pagamento em 15/06/2026 e data-base em 29/05/2026. Ao preço de R$ 9,96, o yield mensal ficou perto de 1,00%.",
-    "fonte": "suno.com.br"
-  },
-  {
-    "ativo": "MXRF11",
-    "data": "2026-06",
-    "titulo": "MXRF11 divulga dividendos de junho",
-    "resumo": "Fundo fixou R$ 0,10 por cota para junho de 2026, repetindo o valor dos dois meses anteriores. Pagamento em 14/07/2026, data-base 30/06/2026, yield mensal de aproximadamente 1,03% sobre cotação de R$ 9,75.",
-    "fonte": "suno.com.br"
-  },
-  {
-    "ativo": "MXRF11",
-    "data": "2026-07",
-    "titulo": "MXRF11 mantém dividendo em julho",
-    "resumo": "Dividendo de R$ 0,10 por cota mantido para julho de 2026, pago em 14/08/2026, data-base 31/07/2026. Yield mensal de 1,04% sobre cotação de R$ 9,58.",
-    "fonte": "suno.com.br"
-  },
-  {
-    "ativo": "MXRF11",
-    "data": "2026-08",
-    "titulo": "MXRF11 confirma dividendo de setembro",
-    "resumo": "Fundo manteve rendimento de R$ 0,10 por cota para setembro de 2026, valor estável desde maio. Pagamento em 15/09/2026, data-base 31/08/2026, yield mensal de 1,08% sobre cotação de R$ 9,30.",
-    "fonte": "fundsexplorer.com.br"
-  },
-  {
-    "ativo": "MXRF11",
-    "data": "2026-06",
-    "titulo": "Resultado gerencial de junho do MXRF11",
-    "resumo": "Relatório gerencial de junho mostrou geração de caixa de R$ 50,47 milhões (R$ 0,1097 por cota), sendo R$ 41,52 milhões de CRIs, R$ 5,98 milhões de FIIs e R$ 5,1 milhões de permutas.",
-    "fonte": "suno.com.br"
-  },
-  {
-    "ativo": "MXRF11",
-    "data": "2026-06",
-    "titulo": "Patrimônio e base de cotistas do MXRF11 em junho",
-    "resumo": "PL encerrou junho de 2026 em R$ 4,24 bilhões, com valor patrimonial de R$ 9,2293 por cota e base de 1.485.336 cotistas. Alocação: 73,9% em CRIs, 15,2% em FIIs, 9,1% em permutas e 1,9% em caixa.",
-    "fonte": "fundsexplorer.com.br"
-  },
-  {
-    "ativo": "MXRF11",
-    "data": "2026-03",
-    "titulo": "MXRF11 rebalanceia carteira de CRIs",
-    "resumo": "Em março, o fundo vendeu parcialmente os CRIs Matheus Ilhéus, FGR, FS Infra e Arcellor Mittal, e alienou totalmente o HBR Hotel W, somando R$ 117 milhões e R$ 2,4 milhões de ganho de capital. Aumentou exposição a BRF Visa, CRI Helbor República do Líbano, Mateus TRX e Shopping Metrô Itaquera.",
-    "fonte": "suno.com.br"
-  },
-  {
-    "ativo": "MXRF11",
-    "data": "2026-05",
-    "titulo": "Concentração setorial da carteira de CRIs do MXRF11",
-    "resumo": "Carteira de CRIs concentrada em residencial (32,20%), varejo alimentício (20,38%), varejo (7,41%), properties (5,79%), shoppings (4,70%) e agronegócio (4,44%).",
-    "fonte": "suno.com.br"
-  },
-  {
-    "ativo": "MXRF11",
-    "data": "2026-06",
-    "titulo": "MXRF11 faz aportes e vendas pontuais",
-    "resumo": "Fundo aportou R$ 65 milhões no CRI BGR Cidade Jardim (IPCA + 9,85% a.a.) e R$ 45 milhões no FII BGRJ11. Também alienou parcialmente sete CRIs com ganho de R$ 1,1 milhão e vendeu R$ 8 milhões do FII MCLO11 com ganho de R$ 730 mil.",
-    "fonte": "fundsexplorer.com.br"
-  },
-  {
-    "ativo": "MXRF11",
-    "data": "2026-06",
-    "titulo": "MXRF11 monitora créditos sensíveis",
-    "resumo": "Gestão segue monitorando os créditos de Urbplan Mezzanino, AIZ/Pesa e Arquiplan/Beside, sem alteração de status. Spread de crédito médio ponderado em 151 pontos-base, com LTV médio de 56%.",
-    "fonte": "fundsexplorer.com.br"
-  }
-]
-
-dados_CMIG4 = [
-  {
-    "ativo": "CMIG4",
-    "data": "2025-03",
-    "titulo": "Cemig anuncia R$ 3,7 bi em proventos",
-    "resumo": "Cemig anunciou pagamento de R$ 3,7 bilhões em proventos, em duas parcelas iguais: primeira até 30/06/2026 e segunda até 30/12/2026. Direito garantido a quem estava posicionado em 26/03/2025.",
-    "fonte": "acionista.com.br"
-  },
-  {
-    "ativo": "CMIG4",
-    "data": "2026",
-    "titulo": "Cemig tem lucro de 4% menor no 1T26",
-    "resumo": "Cemig apresentou queda de 4% no lucro do 1T26 e alta na alavancagem, refletindo o maior programa de investimento da história da companhia: R$ 43,7 bilhões previstos entre 2026 e 2030, sendo R$ 6,7 bilhões só em 2026.",
-    "fonte": "nordinvestimentos.com.br"
-  },
-  {
-    "ativo": "CMIG4",
-    "data": "2026",
-    "titulo": "Perspectiva de dividendos da Cemig fica mais contida",
-    "resumo": "Com o aumento da alavancagem, analistas não esperam mais um dividend yield de dois dígitos como em períodos passados, projetando lucro mais pressionado no curto/médio prazo e distribuições menores.",
-    "fonte": "nordinvestimentos.com.br"
-  },
-  {
-    "ativo": "CMIG4",
-    "data": "2026-03-20",
-    "titulo": "Cemig lucra 12% menos no 4T25 mas anuncia JCP",
-    "resumo": "Cemig registrou receita líquida de R$ 11,5 bilhões no 4T25 (+3% na comparação anual), EBITDA de R$ 1,8 bilhão (-7%) e lucro líquido de R$ 1 bilhão (-12%). Anunciou R$ 658 milhões em JCP, equivalentes a R$ 0,23 por ação.",
-    "fonte": "nordinvestimentos.com.br"
-  },
-  {
-    "ativo": "CMIG4",
-    "data": "2026",
-    "titulo": "Cemig anuncia novo JCP de R$ 596 milhões",
-    "resumo": "Cemig anunciou pagamento de R$ 596 milhões em JCP, equivalente a R$ 0,20 por ação, em duas parcelas até dezembro de 2026. Segundo a XP, o retorno dos dividendos está em torno de 8%.",
-    "fonte": "acionista.com.br (via Money Times)"
-  },
-  {
-    "ativo": "CMIG4",
-    "data": "2026-05-11",
-    "titulo": "Cemig divulga apresentação de resultados do 1T26",
-    "resumo": "Cemig publicou comunicado ao mercado com a apresentação de resultados do 1T26 em 08/05/2026, divulgada ao público em 11/05/2026.",
-    "fonte": "acionista.com.br"
-  },
-  {
-    "ativo": "CMIG4",
-    "data": "2025",
-    "titulo": "Cemig acumula R$ 0,82 em proventos em 2025",
-    "resumo": "Cemig anunciou JCP de R$ 0,17 por ação com data de corte em 26/06/2025, acumulando R$ 0,82 em proventos no ano, acima dos R$ 0,66 do mesmo período de 2024. Dividend yield bruto de 7,59% sobre cotação de R$ 10,80, com projeção de superar 11,57% caso repita o desempenho de 2024.",
-    "fonte": "acionista.com.br (via Investing Pro)"
-  },
-  {
-    "ativo": "CMIG4",
-    "data": "2025",
-    "titulo": "Cemig propõe R$ 1,8 bi em dividendos adicionais",
-    "resumo": "Cemig propôs pagamento adicional de R$ 1,8 bilhão em dividendos, a ser votado em assembleia em 30/04/2025, em meio a crescimento anual de 23% no lucro, apesar de custos maiores pressionando o trimestre.",
-    "fonte": "acionista.com.br"
-  },
-  {
-    "ativo": "CMIG4",
-    "data": "2026-06-23",
-    "titulo": "Histórico recente de proventos de CMIG4",
-    "resumo": "Levantamento de histórico de dividendos mostra JCP de R$ 0,110203 por ação com registro em 23/06/2026, Dividendo de R$ 0,118178 com registro em 30/04/2026 e JCP de R$ 0,115 com registro em 24/03/2026, todos pagos em parcelas ao longo de 2026 e 2027.",
-    "fonte": "dadosdemercado.com.br"
-  },
-  {
-    "ativo": "CMIG4",
-    "data": "2026",
-    "titulo": "Revisão tarifária pode aliviar alavancagem da Cemig",
-    "resumo": "Expectativa de mercado é que a revisão tarifária periódica (RTP) em 2028 contribua para o processo de desalavancagem da Cemig e traga mais equilíbrio financeiro. Empresa mantém política de payout de 50% do lucro líquido do ano anterior desde 2024.",
-    "fonte": "acionista.com.br"
-  }
-]
+{
+  "ativo": "MXRF11",
+  "data": "2026-05",
+  "titulo": "MXRF11 mantém R$ 0,10 por cota em maio",
+  "resumo": "MXRF11 confirmou distribuição de R$ 0,10 por cota referente a maio de 2026, com pagamento em 15/06/2026 e data-base em 29/05/2026. Ao preço de R$ 9,96, o yield mensal ficou perto de 1,00%.",
+  "fonte": "suno.com.br"
+},
+{
+  "ativo": "MXRF11",
+  "data": "2026-06",
+  "titulo": "MXRF11 divulga dividendos de junho",
+  "resumo": "Fundo fixou R$ 0,10 por cota para junho de 2026, repetindo o valor dos dois meses anteriores. Pagamento em 14/07/2026, data-base 30/06/2026, yield mensal de aproximadamente 1,03% sobre cotação de R$ 9,75.",
+  "fonte": "suno.com.br"
+},
+{
+  "ativo": "MXRF11",
+  "data": "2026-07",
+  "titulo": "MXRF11 mantém dividendo em julho",
+  "resumo": "Dividendo de R$ 0,10 por cota mantido para julho de 2026, pago em 14/08/2026, data-base 31/07/2026. Yield mensal de 1,04% sobre cotação de R$ 9,58.",
+  "fonte": "suno.com.br"
+},
+{
+  "ativo": "MXRF11",
+  "data": "2026-08",
+  "titulo": "MXRF11 confirma dividendo de setembro",
+  "resumo": "Fundo manteve rendimento de R$ 0,10 por cota para setembro de 2026, valor estável desde maio. Pagamento em 15/09/2026, data-base 31/08/2026, yield mensal de 1,08% sobre cotação de R$ 9,30.",
+  "fonte": "fundsexplorer.com.br"
+},
+{
+  "ativo": "MXRF11",
+  "data": "2026-06",
+  "titulo": "Resultado gerencial de junho do MXRF11",
+  "resumo": "Relatório gerencial de junho mostrou geração de caixa de R$ 50,47 milhões (R$ 0,1097 por cota), sendo R$ 41,52 milhões de CRIs, R$ 5,98 milhões de FIIs e R$ 5,1 milhões de permutas.",
+  "fonte": "suno.com.br"
+},
+{
+  "ativo": "MXRF11",
+  "data": "2026-06",
+  "titulo": "Patrimônio e base de cotistas do MXRF11 em junho",
+  "resumo": "PL encerrou junho de 2026 em R$ 4,24 bilhões, com valor patrimonial de R$ 9,2293 por cota e base de 1.485.336 cotistas. Alocação: 73,9% em CRIs, 15,2% em FIIs, 9,1% em permutas e 1,9% em caixa.",
+  "fonte": "fundsexplorer.com.br"
+},
+{
+  "ativo": "MXRF11",
+  "data": "2026-03",
+  "titulo": "MXRF11 rebalanceia carteira de CRIs",
+  "resumo": "Em março, o fundo vendeu parcialmente os CRIs Matheus Ilhéus, FGR, FS Infra e Arcellor Mittal, e alienou totalmente o HBR Hotel W, somando R$ 117 milhões e R$ 2,4 milhões de ganho de capital. Aumentou exposição a BRF Visa, CRI Helbor República do Líbano, Mateus TRX e Shopping Metrô Itaquera.",
+  "fonte": "suno.com.br"
+},
+{
+  "ativo": "MXRF11",
+  "data": "2026-05",
+  "titulo": "Concentração setorial da carteira de CRIs do MXRF11",
+  "resumo": "Carteira de CRIs concentrada em residencial (32,20%), varejo alimentício (20,38%), varejo (7,41%), properties (5,79%), shoppings (4,70%) e agronegócio (4,44%).",
+  "fonte": "suno.com.br"
+},
+{
+  "ativo": "MXRF11",
+  "data": "2026-06",
+  "titulo": "MXRF11 faz aportes e vendas pontuais",
+  "resumo": "Fundo aportou R$ 65 milhões no CRI BGR Cidade Jardim (IPCA + 9,85% a.a.) e R$ 45 milhões no FII BGRJ11. Também alienou parcialmente sete CRIs com ganho de R$ 1,1 milhão e vendeu R$ 8 milhões do FII MCLO11 com ganho de R$ 730 mil.",
+  "fonte": "fundsexplorer.com.br"
+},
+{
+  "ativo": "MXRF11",
+  "data": "2026-06",
+  "titulo": "MXRF11 monitora créditos sensíveis",
+  "resumo": "Gestão segue monitorando os créditos de Urbplan Mezzanino, AIZ/Pesa e Arquiplan/Beside, sem alteração de status. Spread de crédito médio ponderado em 151 pontos-base, com LTV médio de 56%.",
+  "fonte": "fundsexplorer.com.br"
+}
+{
+  "ativo": "CMIG4",
+  "data": "2025-03",
+  "titulo": "Cemig anuncia R$ 3,7 bi em proventos",
+  "resumo": "Cemig anunciou pagamento de R$ 3,7 bilhões em proventos, em duas parcelas iguais: primeira até 30/06/2026 e segunda até 30/12/2026. Direito garantido a quem estava posicionado em 26/03/2025.",
+  "fonte": "acionista.com.br"
+},
+{
+  "ativo": "CMIG4",
+  "data": "2026",
+  "titulo": "Cemig tem lucro de 4% menor no 1T26",
+  "resumo": "Cemig apresentou queda de 4% no lucro do 1T26 e alta na alavancagem, refletindo o maior programa de investimento da história da companhia: R$ 43,7 bilhões previstos entre 2026 e 2030, sendo R$ 6,7 bilhões só em 2026.",
+  "fonte": "nordinvestimentos.com.br"
+},
+{
+  "ativo": "CMIG4",
+  "data": "2026",
+  "titulo": "Perspectiva de dividendos da Cemig fica mais contida",
+  "resumo": "Com o aumento da alavancagem, analistas não esperam mais um dividend yield de dois dígitos como em períodos passados, projetando lucro mais pressionado no curto/médio prazo e distribuições menores.",
+  "fonte": "nordinvestimentos.com.br"
+},
+{
+  "ativo": "CMIG4",
+  "data": "2026-03-20",
+  "titulo": "Cemig lucra 12% menos no 4T25 mas anuncia JCP",
+  "resumo": "Cemig registrou receita líquida de R$ 11,5 bilhões no 4T25 (+3% na comparação anual), EBITDA de R$ 1,8 bilhão (-7%) e lucro líquido de R$ 1 bilhão (-12%). Anunciou R$ 658 milhões em JCP, equivalentes a R$ 0,23 por ação.",
+  "fonte": "nordinvestimentos.com.br"
+},
+{
+  "ativo": "CMIG4",
+  "data": "2026",
+  "titulo": "Cemig anuncia novo JCP de R$ 596 milhões",
+  "resumo": "Cemig anunciou pagamento de R$ 596 milhões em JCP, equivalente a R$ 0,20 por ação, em duas parcelas até dezembro de 2026. Segundo a XP, o retorno dos dividendos está em torno de 8%.",
+  "fonte": "acionista.com.br (via Money Times)"
+},
+{
+  "ativo": "CMIG4",
+  "data": "2026-05-11",
+  "titulo": "Cemig divulga apresentação de resultados do 1T26",
+  "resumo": "Cemig publicou comunicado ao mercado com a apresentação de resultados do 1T26 em 08/05/2026, divulgada ao público em 11/05/2026.",
+  "fonte": "acionista.com.br"
+},
+{
+  "ativo": "CMIG4",
+  "data": "2025",
+  "titulo": "Cemig acumula R$ 0,82 em proventos em 2025",
+  "resumo": "Cemig anunciou JCP de R$ 0,17 por ação com data de corte em 26/06/2025, acumulando R$ 0,82 em proventos no ano, acima dos R$ 0,66 do mesmo período de 2024. Dividend yield bruto de 7,59% sobre cotação de R$ 10,80, com projeção de superar 11,57% caso repita o desempenho de 2024.",
+  "fonte": "acionista.com.br (via Investing Pro)"
+},
+{
+  "ativo": "CMIG4",
+  "data": "2025",
+  "titulo": "Cemig propõe R$ 1,8 bi em dividendos adicionais",
+  "resumo": "Cemig propôs pagamento adicional de R$ 1,8 bilhão em dividendos, a ser votado em assembleia em 30/04/2025, em meio a crescimento anual de 23% no lucro, apesar de custos maiores pressionando o trimestre.",
+  "fonte": "acionista.com.br"
+},
+{
+  "ativo": "CMIG4",
+  "data": "2026-06-23",
+  "titulo": "Histórico recente de proventos de CMIG4",
+  "resumo": "Levantamento de histórico de dividendos mostra JCP de R$ 0,110203 por ação com registro em 23/06/2026, Dividendo de R$ 0,118178 com registro em 30/04/2026 e JCP de R$ 0,115 com registro em 24/03/2026, todos pagos em parcelas ao longo de 2026 e 2027.",
+  "fonte": "dadosdemercado.com.br"
+},
+{
+  "ativo": "CMIG4",
+  "data": "2026",
+  "titulo": "Revisão tarifária pode aliviar alavancagem da Cemig",
+  "resumo": "Expectativa de mercado é que a revisão tarifária periódica (RTP) em 2028 contribua para o processo de desalavancagem da Cemig e traga mais equilíbrio financeiro. Empresa mantém política de payout de 50% do lucro líquido do ano anterior desde 2024.",
+  "fonte": "acionista.com.br"
 }
