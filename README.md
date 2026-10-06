@@ -19,5 +19,4 @@ Validar se a utilização de notícias recentes como contexto permite ao Qwen ge
 * **Python**
 * **Qwen** — geração das análises
 * **ChromaDB** — armazenamento e recuperação dos embeddings
-* **Embeddings** — representação semântica dos resumos
 * **JSON** — armazenamento inicial das notícias
